@@ -8,6 +8,7 @@ The API should offer a range of services, ensuring data integrity, thread safety
 
 Requirements:
     Client Operations:
+    
         Create: Allow the creation of new client accounts.
 		Requires: Name and Salary, the other fields should be filled by the API
 
